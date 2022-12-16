@@ -1,5 +1,6 @@
 body {
-    background-image: url(image.jpeg);
+    
+    background-color: black;
     background-repeat: no-repeat;
     background-attachment: fixed;
     background-size: 200ch 150ch;
@@ -41,18 +42,47 @@ h7{
 }
 p{
     font-size: 20px;
-    color: gold;
+    color: lavender;
+}
+.social-icons {
+    display: flex;
+    justify-content: center;
+
 }
 
-
-
-
-.img {
-    max-width: 50%;
-    width:50%;
-    height: auto;
+.social-icons i {
+    margin-left: 15px;
 }
-
-  
-
-
+#form1 {
+    margin: 20px;
+    padding: 10px;
+    
+}
+#form1 .col {
+    margin-bottom: 10px;
+}
+#email {
+    background-color: darkgray;
+    width: 900px;
+}
+#sizeInput {
+    background-color: cadetblue;
+    width: 800px;
+    text-emphasis: bold;
+}
+#colorInput {
+    background-color: cornflowerblue;
+    width: 700px;
+}
+#shirtInput{
+    background-color: darkslateblue;
+    width: 600px;
+}
+#donationInput{
+    background-color: aqua;
+    width: 500px;
+}
+#submitbtn{
+    background-color: mediumblue;
+    width: 100px;
+}

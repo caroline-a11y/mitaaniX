@@ -2,9 +2,35 @@
   "shirts": [
     {
       "id": 1,
-      "size": "small, large, medium",
-      "colour": "grey, black",
-      "amount": "0"
+      "email": "carolinesyokau@gmail.com",
+      "size": "small",
+      "color": "grey",
+      "numberOfShirts": 12,
+      "donation": 300
+    },
+    {
+      "email": "carolinesyokau@gmail.com",
+      "size": "Small",
+      "color": "grey",
+      "numberOfShirts": "2",
+      "donation": 400,
+      "id": 2
+    },
+    {
+      "email": "carolinesyokau@gmail.com",
+      "size": "Small",
+      "color": "grey",
+      "numberOfShirts": "9",
+      "donation": "10000",
+      "id": 3
+    },
+    {
+      "email": "carolinesyokau@gmail.com",
+      "size": "Small",
+      "color": "grey",
+      "numberOfShirts": "5",
+      "donation": "10000",
+      "id": 4
     }
   ]
 }
