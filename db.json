@@ -1,0 +1,10 @@
+{
+  "shirts": [
+    {
+      "id": 1,
+      "size": "small, large, medium",
+      "colour": "grey, black",
+      "amount": "0"
+    }
+  ]
+}
